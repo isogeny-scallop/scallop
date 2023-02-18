@@ -1,0 +1,4 @@
+main
+debug
+*.sage.py
+params.hpp
